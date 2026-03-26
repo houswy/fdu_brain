@@ -1,0 +1,35 @@
+[62288:12828:0317/215034.288:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v9.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v9.filemap.sogouime302620b3c37
+[62288:12828:0317/215034.289:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[62288:12828:0317/215034.289:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[62288:12828:0317/215034.414:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi144.v9.filemap.sogouime
+[62288:12828:0317/215034.414:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:9
+[62288:12828:0317/215034.415:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[60412:4352:0317/215141.057:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v9.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v9.filemap.sogouime302620b3c37
+[60412:4352:0317/215141.057:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[60412:4352:0317/215141.057:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[60412:4352:0317/215141.135:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi144.v9.filemap.sogouime
+[60412:4352:0317/215141.135:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:9
+[60412:4352:0317/215141.135:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[62744:62200:0318/100440.525:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v9.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v9.filemap.sogouime302620b3c37
+[62744:62200:0318/100440.526:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[62744:62200:0318/100440.526:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[62744:62200:0318/100440.607:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi144.v9.filemap.sogouime
+[62744:62200:0318/100440.608:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:9
+[62744:62200:0318/100440.608:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[61436:35588:0318/105134.338:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v9.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v9.filemap.sogouime302620b3c37
+[61436:35588:0318/105134.374:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[61436:35588:0318/105134.375:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[61436:35588:0318/105134.510:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi144.v9.filemap.sogouime
+[61436:35588:0318/105134.510:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:9
+[61436:35588:0318/105134.510:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[68156:59880:0318/111608.573:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v9.filemap.sogouime err:系统错误2: 系统找不到指定的文件。  
+打开Filemap失败: Local\sgime_skin.v9.filemap.sogouime302620b3c37
+[68156:59880:0318/111608.612:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[68156:59880:0318/111608.612:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
+[68156:59880:0318/111608.673:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi144.v9.filemap.sogouime
+[68156:59880:0318/111608.673:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:9
+[68156:59880:0318/111608.673:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:9
