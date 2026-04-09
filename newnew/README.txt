@@ -1,0 +1,1 @@
+extract包主要是用于识别图像中的神经元的，output_sort_final一般是cell*frame的一个矩阵，代码如下：https://github.com/schnitzer-lab/EXTRACT-public
